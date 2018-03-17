@@ -3,3 +3,6 @@ With an user-friendly Bayesian web-application, we aim at improving the use of p
 
 Here is the current version.
 https://fammedresearch.shinyapps.io/qvbetathree/
+
+Please evaluate the website here. Your comments are very welcome.
+https://www.surveymonkey.com/r/N6285D3
