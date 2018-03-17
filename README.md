@@ -6,3 +6,7 @@ https://fammedresearch.shinyapps.io/qvbetathree/
 
 Please evaluate the website here. Your comments are very welcome.
 https://www.surveymonkey.com/r/N6285D3
+
+Please do not hesitate to comment or contact us at fammedresearch.stats@gmail.com.
+
+
