@@ -6,6 +6,6 @@ https://fammedresearch.shinyapps.io/qvbetathree/
 Please evaluate the web app here. Your comments are very welcome.
 https://www.surveymonkey.com/r/N6285D3
 
-Please do not hesitate to contact us if you have any questions or suggestions: fammedresearch.stats AT gmail.com.
+Please do not hesitate to contact us if you have any questions or suggestions: fammedresearch.stats AT protonmail.com.
 
 
